@@ -1,3 +1,4 @@
+Experimental demo version for class digital year book with NextJS.      
 
 Add image domains to next.config.js because of nextjs rules to ensure loading       
 
