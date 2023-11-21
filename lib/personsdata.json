@@ -1,0 +1,268 @@
+{
+  "persons" :
+[
+    {
+      "name": "Joy Nana Pokua",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "/images/sven.png",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Kwabena Obeng-Yeboah",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Edmund Ayew",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Jonathan Edem Akuaku",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Rexford Machu",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Irene Allotey",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Kwaw Kumi Miezah",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Max Otuteye",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Nii Odartey Lamptey",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Linda Paha",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Kwame Lord Kusi",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Nana Ama",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Nana Ama Achiaa",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Linda Ama Paha",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Irene Allotey",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Samuel Ofori",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Nana Ama",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Linda Paha",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Irene Allotey",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Grace Wiredu",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Marcel Remy Nortey",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Dillys Annan",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Kwasi Biritwum-Nyarko",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Nana Baffour Awuah",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Edwin Ofori",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Andrews Yeboah",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Andrews Antwi",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Daniel Barden",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Beatrice Apeatu",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Catherine Awuletey",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Claudia Joppa",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Wilson Aballey",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Paul Baah",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Jeffery Kwakye",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Sampson Twene",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Papa Kwaku Brako",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Victor Yankey",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Caleb Agyei",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Bevelyn Amoako",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Samuel Nyame Konadu",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Bright Kwarteng Adu Snr",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "John Akanlegum",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Jummai Alhassan",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    },
+    {
+      "name": "Francis Baissie",
+      "quote": "What do you call a man who cannot stand? Neal",
+      "image": "https://media.licdn.com/dms/image/D4E03AQGYExuUUQSp3w/profile-displayphoto-shrink_800_800/0/1697196273539?e=1704326400&v=beta&t=Sc-e70_PNwdjpQGZetjDwAMEKA5UvM7Hn-sh5jzxu4s",
+      "linkedin": "https://linkedin.com"
+    }
+  ]
+}

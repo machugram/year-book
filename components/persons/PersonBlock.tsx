@@ -18,7 +18,7 @@ export const PersonBlock: FC<PersonType> = ({ name, quote, image, linkedin }) =>
         <ImageBlock className="img-container">
           <Image
             className="person-cover-img"
-            src= {image}
+            src= {image ? image : "https://avatars.githubusercontent.com/u/98180721?s=280&v=4"}
             layout="fill"
             alt="text-block"
             // placeholder="blur"
@@ -33,9 +33,9 @@ export const PersonBlock: FC<PersonType> = ({ name, quote, image, linkedin }) =>
           </div>
         </motion.div>
 
-        <div className="content mobile">
-        <p className="name">{name}</p>
-        <p className="quote">{quote}</p>
+        <div className="content">
+          <p className="name">{name}</p>
+          <p className="quote">{quote}</p>
         </div>
       </Block>
     </>
