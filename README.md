@@ -7,3 +7,8 @@ Add data to /lib/data.ts
 Here is a preview:      
 
 ![Preview of Screen](screen.png)
+
+
+- Clone Project         
+- Run `npm install` or `npm i `     
+- Run `npm run dev` 
