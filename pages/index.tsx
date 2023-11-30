@@ -19,11 +19,12 @@ const Home: NextPage<HomeProps> = ({ }) => {
         <Wrapper>
           <section className="about">
             <h1 className="name">Computer Engineering Class of 2023</h1>
-            <h2 className="name">COE'23</h2>
+            <h2 className="name">Statistics</h2>
             <p>
-              4 years  of bonds, through the covid era to the UTAG strike era to the Kommey era and finally the last dance
-              with the final year projects and defense. <br />
-              Brewing good people to take on the world. 
+             The class has 160 members<br />
+             We have 144 Males and  16 Females
+
+
             </p>
           </section>
           <section className="persons">
